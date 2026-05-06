@@ -34,7 +34,7 @@ function App() {
     }
 
     return (
-        <div style={{ padding: "30px", fontFamily: "Arial", textAlign: "center", maxWidth: "500px", margin: "auto" }}>
+        <div style={{ padding: "40px", fontFamily: "Arial", textAlign: "center", maxWidth: "500px", margin: "auto" }}>
             <h1>🌤️ Weather App</h1>
 
             <input
