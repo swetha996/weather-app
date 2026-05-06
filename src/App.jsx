@@ -63,6 +63,9 @@ function App() {
                     <p>💨 Wind: {weather.wind.speed} m/s</p>
                 </div>
             )}
+            <footer style={{ marginTop: "50px", padding: "20px", textAlign: "center", color: "gray", borderTop: "1px solid #eee" }}>
+    <p>Made with ❤️ by Swetha — 2026</p>
+</footer>
         </div>
     )
 }
